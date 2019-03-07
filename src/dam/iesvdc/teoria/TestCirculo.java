@@ -1,4 +1,4 @@
-package dam.iesvdc.ejercicios;
+package dam.iesvdc.teoria;
 
 public class TestCirculo {
 
